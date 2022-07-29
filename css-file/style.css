@@ -3,3 +3,45 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+.imgh{
+    height: 500px;
+}
+.price{
+    text-decoration: none;
+    color: tomato;
+   
+}
+.inpu{
+    width: 65%;
+    background: whitesmoke;
+    padding: 10px;
+   
+}
+
+.image-inpu{
+ padding-left: 0px;
+ border: 1px solid gray;
+ margin-right: 5px;
+ width: 50%;
+}
+.perg{
+    font-size: 12px;
+    margin-bottom: 2px;
+    padding: 0 4px;
+    padding-right: 3px;
+}
+/* acording style ex */
+.acording{
+    width: 450px;
+   margin: auto;
+}
+/* footer style ex */
+.footer-item{
+    padding: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img.img-fluid.rounded-start {
+    width: 500px;
+}
